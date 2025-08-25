@@ -1,0 +1,22 @@
+body{
+    margin-left: 5%;
+}
+h2 {
+    color: #01693e;
+    font-size: 2em;
+}
+
+h3 {
+    color: #176849;
+    font-size: 2em;
+}
+
+ul li, ol li {
+    font-size: 1.5em;
+    color: black;
+}
+
+a {
+    color: rgb(0, 60, 255);
+    text-decoration: none;
+}
